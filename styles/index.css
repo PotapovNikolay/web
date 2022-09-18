@@ -152,6 +152,7 @@ footer{
     display: flex;
     padding: 60px 120px;
     justify-content: space-around;
+    flex-wrap: wrap;
 
 }
 .column{
